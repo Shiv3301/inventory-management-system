@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Node modules
+frontend/node_modules/
+
+# Vite build
+frontend/dist/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
